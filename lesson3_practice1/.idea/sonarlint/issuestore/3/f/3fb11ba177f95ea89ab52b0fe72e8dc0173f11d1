@@ -1,0 +1,17 @@
+
+U	java:S106	"9Replace this use of System.out or System.err by a logger.(ª—Ó–8Ý„Õ“ð.
+J
+java:S1199/"-Extract this nested code block into a method.(…ß¾£8“œó“ð.
+O
+java:S11996"-Extract this nested code block into a method.(ƒüÿìýÿÿÿÿ8ßòô“ð.
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(ÎËó©ùÿÿÿÿ8´éí“ð.
+Z	java:S106A"9Replace this use of System.out or System.err by a logger.(Åü±¾úÿÿÿÿ8Æ‘ù“ð.
+O
+java:S1199@"-Extract this nested code block into a method.(Í‡¬‰úÿÿÿÿ8Æ‘ù“ð.
+Z	java:S1067"9Replace this use of System.out or System.err by a logger.(öç¸Äÿÿÿÿÿ8ù™õ“ð.
+Z	java:S1060"9Replace this use of System.out or System.err by a logger.(ßÇ³¶úÿÿÿÿ8“œó“ð.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ò°ÿº8Â·à“ð.
+>	java:S131""Add a default case to this switch.(˜Ø‚º8èÞë“ð.
+J
+java:S1199%"-Extract this nested code block into a method.(îÒ«Â8€Óð“ð.
+m	java:S1286"LEnd this switch case with an unconditional break, return or throw statement.(ƒüÿìýÿÿÿÿ8“á÷“ð.

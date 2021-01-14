@@ -1,0 +1,19 @@
+
+]	java:S125"<This block of commented-out lines of code should be removed.(è­¬Ôüÿÿÿÿ8›³Ÿ“ğ.
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(š¸Ö‡ùÿÿÿÿ8Òø•“ğ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÅçÆÎúÿÿÿÿ8š” “ğ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ùğü8¶Û–“ğ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(š¸Ö‡ùÿÿÿÿ8Ş´—“ğ.
+p
+java:S1192
+"NDefine a constant instead of duplicating this literal "cislo je sude" 3 times.(š¸Ö‡ùÿÿÿÿ8•Š“ğ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ùğü8•Š“ğ.
+`
+java:S2583	"CChange this condition so that it does not always evaluate to "true"(ò¯Îô8›³Ÿ“ğ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ùğü8Ş´—“ğ.
+l
+java:S1192"ODefine a constant instead of duplicating this literal "cislo je liche" 3 times.(ùğü8•Š“ğ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(š¸Ö‡ùÿÿÿÿ8•Š“ğ.
+e
+java:S2583"CChange this condition so that it does not always evaluate to "true"(îæ¬˜üÿÿÿÿ8»¾ “ğ.
