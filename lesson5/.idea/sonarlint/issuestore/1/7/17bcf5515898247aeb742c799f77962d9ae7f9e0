@@ -1,0 +1,45 @@
+
+B
+java:S2129" Remove this "String" constructor(Øñ›úÿÿÿÿ8ıÍÙ°ò.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(“×ç°8Èà±ò.
+K
+java:S1125")Remove the literal "false" boolean value.(Îùããúÿÿÿÿ8Ëœó±ò.
+S
+java:S1481"1Remove this unused "aToStrBetter" local variable.(şº¤ûÿÿÿÿ8ÔÍ€±ò.
+O
+java:S1481"-Remove this unused "isEquals" local variable.(Îùããúÿÿÿÿ8òèó±ò.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(æ±ÓË8Èà±ò.
+G
+java:S1481"+Remove this unused "aToStr" local variable.(³ñÁ]8ÔÍ€±ò.
+L
+java:S1481"*Remove this unused "name3" local variable.(Øñ›úÿÿÿÿ8ıÍÙ°ò.
+M
+java:S1481"+Remove this unused "splits" local variable.(§¬Ğûÿÿÿÿ8ªÄ˜±ò.
+V
+java:S1854":Remove this useless assignment to local variable "aToStr".(³ñÁ]8í‰ÿ°ò.
+^
+java:S1854"<Remove this useless assignment to local variable "replaced".(¥øòÈüÿÿÿÿ8·Úò°ò.
+V
+java:S4973"9Use the "equals" method if value comparison was intended.(æ±ÓË8Èà±ò.
+=
+java:S2129" Remove this "String" constructor(éíµÀ8æ¬Ø°ò.
+b
+java:S1854"@Remove this useless assignment to local variable "aToStrBetter".(şº¤ûÿÿÿÿ8ÔÍ€±ò.
+\
+java:S1854":Remove this useless assignment to local variable "splits".(§¬Ğûÿÿÿÿ8ªÄ˜±ò.
+^
+java:S1854"<Remove this useless assignment to local variable "isEquals".(Îùããúÿÿÿÿ8Ëœó±ò.
+e
+java:S2583"CChange this condition so that it does not always evaluate to "true"(Îùããúÿÿÿÿ8Ëœó±ò.
+[
+java:S1854"9Remove this useless assignment to local variable "name3".(Øñ›úÿÿÿÿ8ıÍÙ°ò.
+f
+java:S3358"DExtract this nested ternary operation into an independent statement.(Îùããúÿÿÿÿ8Ëœó±ò.
+O
+java:S1481"-Remove this unused "replaced" local variable.(¥øòÈüÿÿÿÿ8·Úò°ò.
+G
+java:S1481
+"*Remove this unused "name2" local variable.(¦ÁáÇ8æ¬Ø°ò.
+V
+java:S1854
+"9Remove this useless assignment to local variable "name2".(¦ÁáÇ8ÄØ°ò.
