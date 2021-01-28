@@ -1,0 +1,9 @@
+
+X	java:S125"<This block of commented-out lines of code should be removed.(«ãº³8§®üÿó.
+Y
+java:S1854"7Remove this useless assignment to local variable "max".(·—¢¨ÿÿÿÿÿ8Ö¢şÿó.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¾ùôŒùÿÿÿÿ8Æïôÿó.
+T
+java:S1854"7Remove this useless assignment to local variable "max".(ÚÕß8·âıÿó.
+U
+java:S3878"8Remove this array creation and simply pass the elements.(ÚÕß8§®üÿó.

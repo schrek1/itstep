@@ -1,0 +1,8 @@
+
+@
+java:S2119"Save and re-use this "Random".(šŸ«íøÿÿÿÿ8ò¹®þó.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¦¦¬þûÿÿÿÿ8ò¹®þó.
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8ò¹®þó.
+Y
+java:S1128"7Remove this unused import 'java.security.SecureRandom'.(›éè™úÿÿÿÿ8úÉÕþó.
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(¦Öç²ûÿÿÿÿ8ò¹®þó.
