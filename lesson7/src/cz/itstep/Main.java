@@ -6,6 +6,6 @@ public class Main {
         System.out.println(wheelsCount);
 
         StringUtils.replaceSpaces("adkjhaskd asdas jklhdss ");
-        
+
     }
 }
