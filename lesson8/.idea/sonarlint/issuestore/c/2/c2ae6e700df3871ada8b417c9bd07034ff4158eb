@@ -1,0 +1,11 @@
+
+T
+java:S1117M"7Rename "city" which hides the field declared at line 6.(°áÛ¥8Ä½ÛŸö.
+W
+java:S1117N":Rename "country" which hides the field declared at line 7.(Ş­Øµ8Ä½ÛŸö.
+Z
+java:S1117O"=Rename "postalCode" which hides the field declared at line 8.(Å•ùÅ8Ä½ÛŸö.
+Z
+java:S1117K"=Rename "streetName" which hides the field declared at line 4.(¶ÀÈ8Ä½ÛŸö.
+`
+java:S1117L">Rename "houseNumber" which hides the field declared at line 5.(ÖÇşúÿÿÿÿ8Ä½ÛŸö.
