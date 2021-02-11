@@ -1,0 +1,9 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‡·³äûÿÿÿÿ8šÚÁóö.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‡·³äûÿÿÿÿ8”›Äóö.
+]	java:S125	"<This block of commented-out lines of code should be removed.(õÉ¿èıÿÿÿÿ8ˆ˜ôóö.
+‰
+java:S1192"gDefine a constant instead of duplicating this literal "test for rectangle failed -> expected " 3 times.(‡·³äûÿÿÿÿ8”›Äóö.
+l
+java:S1192"JDefine a constant instead of duplicating this literal " but was " 3 times.(‡·³äûÿÿÿÿ8”›Äóö.
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(‡·³äûÿÿÿÿ8Èùõòö.

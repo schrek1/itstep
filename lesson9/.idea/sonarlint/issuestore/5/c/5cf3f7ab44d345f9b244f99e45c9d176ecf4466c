@@ -1,0 +1,11 @@
+
+q
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(ò¯¹§8äÕ¿ôö.
+Q
+java:S1128"4Remove this unused import 'java.lang.reflect.Array'.(‡¡É˜8ó”ìôö.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(–¥ìC8®å’ôö.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‚¨Ö§8û•“ôö.
+v
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(éõŒùÿÿÿÿ8äÕ¿ôö.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¼¯ÏË8›´ìôö.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ñøë8ó”ìôö.

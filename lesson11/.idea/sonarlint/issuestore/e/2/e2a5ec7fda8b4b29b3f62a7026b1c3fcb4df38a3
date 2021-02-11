@@ -1,0 +1,14 @@
+
+X	java:S125$"<This block of commented-out lines of code should be removed.(«®û8ÁŠš’ù.
+Z	java:S1060"9Replace this use of System.out or System.err by a logger.(¨ô¢¨ıÿÿÿÿ8“ƒí“ù.
+J
+java:S1128"-Remove this unused import 'java.time.Period'.(šÉ¢½8™£–’ù.
+U	java:S106""9Replace this use of System.out or System.err by a logger.(Üı©Æ8º¤œ’ù.
+I
+java:S1481",Remove this unused "object1" local variable.(‡ÜŠè8ÁŠš’ù.
+X
+java:S1854";Remove this useless assignment to local variable "object1".(‡ÜŠè8ÁŠš’ù.
+T	java:S106!"9Replace this use of System.out or System.err by a logger.(·­–h8ÁŠš’ù.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(©‰üùÿÿÿÿ8¿êÙ’ù.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(©‰üùÿÿÿÿ8¸ÀÛ’ù.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ş¾Äò8âúÚ’ù.
