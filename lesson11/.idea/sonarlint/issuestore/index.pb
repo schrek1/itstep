@@ -9,3 +9,9 @@ F
 src/cz/itstep/Car.java,d\2\d230324a5578c01967f11bdc582bcc5adb75e822
 Q
 !src/cz/itstep/practice4/Main.java,7\c\7c2c70c91bdab15dbbb7b47dfa50246fd5c0917e
+Q
+!src/cz/itstep/homework/Shape.java,5\8\583868fda33e0f8c9d98fd6f03f037794d844f74
+Q
+!src/cz/itstep/homework/Task4.java,b\5\b5fe5146c0e0535c691187ce57fcc1192d44f468
+R
+"src/cz/itstep/homework/Square.java,c\c\cc922ede3e554aee249910e0022aed8ee1efc35a

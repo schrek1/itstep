@@ -1,0 +1,13 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ß× ™üÿÿÿÿ8øİ‰ßú.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Î£Üıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(äÈôõùÿÿÿÿ
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(”¿èŞ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(àÃ¥¤8øİ‰ßú.
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(™Ú­ßúÿÿÿÿ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(ÍÒ®”şÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(›Øì³øÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(Îàäøøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ø¯Ñìşÿÿÿÿ
+™
+java:S1130"}Remove the declaration of thrown exception 'java.lang.CloneNotSupportedException', as it cannot be thrown from method's body.(ÂôP8õÉíŞú.
