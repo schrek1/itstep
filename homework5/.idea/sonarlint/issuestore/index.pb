@@ -1,0 +1,31 @@
+
+T
+$homework5/battery/impl/Duracell.java,5\f\5f283e7b9ec705a30088352e70e1457c04cea509
+O
+homework5/charger/ICharger.java,b\f\bf11738695c5f00a4b49ef0466956447b1749c26
+N
+homework5/charger/Charger.java,a\6\a6e2d5313c8a772f832f6cae7b0a436a11ab7007
+V
+&homework5/charger/StandardCharger.java,4\a\4ab498a22d107fedb2d745295c7b103e45b80e8d
+Y
+)homework5/battery/IChargeableBattery.java,0\4\040749d6f56578db04f7f30e770de8cddeb730f3
+]
+-homework5/battery/impl/ExtendAccumulator.java,4\1\4125030b92f62252d6f8745ee29ae7ece28a2488
+S
+#homework5/charger/SuperCharger.java,5\c\5cbb2fbdca45829d4ae32b444aa2187cf79d16c2
+O
+homework5/battery/IBattery.java,0\4\043d21c55ac5ecfb02daf4be78a84fee91d41665
+X
+(homework5/battery/impl/ChinaBattery.java,6\d\6d1206d776ed17fb7e4c29958a367fc34f9b0951
+\
+,homework5/battery/impl/ChargableBattery.java,5\8\587a74f76c7611f67dd1b0c67523fe8bf0101aed
+S
+#homework5/battery/impl/Battery.java,d\2\d2fa84e0e1761e95c5af7a008c0f0917018e38ff
+W
+'homework5/battery/impl/Accumulator.java,6\9\694a489ed79ea4599ec9a2f40346f4dc1366ecca
+D
+homework5/Task1.java,7\c\7cd824f1cecc220c7c6294228daf3247e553172d
+T
+$homework5/falshlight/Flashlight.java,6\c\6cbd3f8ed507882bf5ddec607b4c34b4439ba41e
+U
+%homework5/falshlight/IFlashlight.java,0\9\093a8a514505d5f254650b4f937a54c547e8ab0c
