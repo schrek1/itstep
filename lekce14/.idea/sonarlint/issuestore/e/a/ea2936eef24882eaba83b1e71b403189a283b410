@@ -1,0 +1,8 @@
+
+s
+java:S1450"]Remove the "convertedInput" field and declare it as a local variable in the relevant methods.(¢¤½È
+M	java:S106"9Replace this use of System.out or System.err by a logger.(œôÔ0
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‚«ÔÌûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(©ÑÃÏþÿÿÿÿ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(í®’ß

@@ -32,7 +32,8 @@ public class Main {
         System.out.println("- narozen: " + human.getBorn());
     }
 
-    public static void printHumanJobInfo(Human human) {
+    //    public static void printHumanJobInfo(Human human) {
+    public static void printHumanJobInfo(Object human) {
         if (human instanceof Pilot) {
             Pilot pilot = (Pilot) human;
             System.out.println("Pilot:");

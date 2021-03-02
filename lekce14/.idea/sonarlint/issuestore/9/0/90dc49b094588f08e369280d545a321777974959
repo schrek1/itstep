@@ -1,0 +1,9 @@
+
+L
+java:S1165"*Make this "requestedResource" field final.(—»ı‡øÿÿÿÿ8åç¬Òı.
+{
+java:S1104"YMake requestedPath a static final constant or non-public and provide accessors if needed.(øßÓøÿÿÿÿ8íø§Òı.
+
+java:S1104"]Make requestedResource a static final constant or non-public and provide accessors if needed.(—»ı‡øÿÿÿÿ8åç¬Òı.
+H
+java:S1165"&Make this "requestedPath" field final.(øßÓøÿÿÿÿ8©Ì§Òı.

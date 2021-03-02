@@ -1,0 +1,15 @@
+
+g	java:S112;"FDefine and throw a dedicated exception instead of using a generic one.(Ãû¾ûÿÿÿÿ8¿éÉÒı.
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(•¹¦½ùÿÿÿÿ8»ŸÑÒı.
+S
+java:S1128"1Remove this unused import 'java.util.Collection'.(¹ÉĞšùÿÿÿÿ8ıÌÒı.
+d
+java:S2184("BCast one of the operands of this division operation to a "double".(‚èëÏøÿÿÿÿ8÷¶‚Òı.
+F
+java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å8Á¬¯Òı.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ŞÄ‡8•Ş™Òı.
+T
+java:S1128	"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8é½ÍÒı.
+]	java:S125"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8™…”Òı.
+O
+java:S1128"-Remove this unused import 'java.util.Locale'.(åğ×±ûÿÿÿÿ8«˜¢Òı.
