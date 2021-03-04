@@ -13,3 +13,13 @@ V
 &src/cz/itstep/practice2/ISortable.java,e\2\e258306e34cb3e053415b603c7a22cba2ae38478
 R
 "src/cz/itstep/practice2/Array.java,2\a\2af65224f6b15de483d2832c5332c9964cafb279
+N
+src/cz/itstep/shapes/Cube.java,6\e\6ef4db7f6687bef046af71fd4a58cd24f1b4afae
+P
+ src/cz/itstep/shapes/Square.java,4\0\408255064995e191c2f4848bc110d6a9d0425d00
+P
+ src/cz/itstep/animal/Monkey.java,b\a\baf9e087ead3b645911d10e6072d4d7ae02cd2ad
+N
+src/cz/itstep/animal/Main.java,7\7\7774b304ba8d05c54d038d4551e2efbf776fc903
+X
+(src/cz/itstep/practice1/StringStore.java,0\7\07fc20a6bc6f7a03e742f570d62f7f18d4626abf

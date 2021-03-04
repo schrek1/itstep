@@ -1,0 +1,9 @@
+
+M
+java:S1481"0Remove this unused "stringStore" local variable.(ÖşÒä8°£Óòÿ.
+h
+java:S1854"FRemove this useless assignment to local variable "integerNumberStore".(˜œ×©úÿÿÿÿ8ô»Íòÿ.
+\
+java:S1854"?Remove this useless assignment to local variable "stringStore".(ÖşÒä8°£Óòÿ.
+Y
+java:S1481"7Remove this unused "integerNumberStore" local variable.(˜œ×©úÿÿÿÿ8ô»Íòÿ.

@@ -1,8 +1,8 @@
 
-X
-java:S1854"DRemove this useless assignment to local variable "showableInstance".(î´ü¹
-K	java:S106"9Replace this use of System.out or System.err by a logger.(´Ô—$
-K	java:S106"9Replace this use of System.out or System.err by a logger.(‰›ñ
-T	java:S125"<This block of commented-out lines of code should be removed.(þÎ¢èÿÿÿÿÿ
-I
-java:S1481"5Remove this unused "showableInstance" local variable.(î´ü¹
+K
+java:S1481	"5Remove this unused "showableInstance" local variable.(î´ü¹
+Z
+java:S1854	"DRemove this useless assignment to local variable "showableInstance".(î´ü¹
+M	java:S106"9Replace this use of System.out or System.err by a logger.(‰›ñ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(´Ô—$
+V	java:S125 "<This block of commented-out lines of code should be removed.(þÎ¢èÿÿÿÿÿ

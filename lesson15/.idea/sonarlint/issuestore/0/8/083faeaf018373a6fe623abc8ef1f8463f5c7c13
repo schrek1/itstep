@@ -1,0 +1,15 @@
+
+L
+java:S3740"/Provide the parametrized type for this generic.(íàöÚ8Æ¡ñ¡ÿ.
+Z
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8«¬Ã¡ÿ.
+T
+java:S1854
+"7Remove this useless assignment to local variable "str".(µ¢´8«¬Ã¡ÿ.
+L
+java:S3740"/Provide the parametrized type for this generic.(íàöÚ8Æ¡ñ¡ÿ.
+E
+java:S1481
+"(Remove this unused "str" local variable.(µ¢´8«¬Ã¡ÿ.
+d
+java:S1192"GDefine a constant instead of duplicating this literal "Pankaj" 3 times.(«°ËÏ8ïÌ¡ÿ.

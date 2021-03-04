@@ -1,0 +1,15 @@
+
+K
+java:S1481	"0Remove this unused "numberStore" local variable.(Æë¶úÿÿÿÿ
+U
+java:S1854
+"?Remove this useless assignment to local variable "stringStore".(—å†ñ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÜÇçˆÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(áÊëæ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÃõÂ©
+F
+java:S1481
+"0Remove this unused "stringStore" local variable.(—å†ñ
+Z
+java:S1854	"?Remove this useless assignment to local variable "numberStore".(Æë¶úÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¸ßÈƒ

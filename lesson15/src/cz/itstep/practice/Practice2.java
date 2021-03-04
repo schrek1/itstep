@@ -1,9 +1,14 @@
 package cz.itstep.practice;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+
 public class Practice2 {
 
-    public static <T extends Number> Number max(T... numbers) {
-        if (numbers == null || numbers.length == 0) return null;
+    public static <T extends Number> double max(T... numbers) {
+        if (numbers == null || numbers.length == 0){
+            throw new IllegalArgumentException("Bad numbers...");
+        }
 
         double max = Double.MIN_VALUE;
 
@@ -13,6 +18,11 @@ public class Practice2 {
                 max = value;
             }
         }
+
+        Arrays.sort(new char[]);
+
+        new ArrayList<>();
+
         return max;
     }
 
