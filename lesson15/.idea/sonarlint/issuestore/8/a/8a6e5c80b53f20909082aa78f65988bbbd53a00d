@@ -1,18 +1,18 @@
 
-N	java:S106"9Replace this use of System.out or System.err by a logger.(Èö®ÿ
-U
-java:S1854"?Remove this useless assignment to local variable "stringStore".(—å†ñ
-9
-java:S2326"Y is not used in the method.(Ÿ¤åœ8íº€£ÿ.
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ÜÇçˆÿÿÿÿÿ
-F
-java:S1481"0Remove this unused "stringStore" local variable.(—å†ñ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(³ªÞÏ
 X	java:S125"<This block of commented-out lines of code should be removed.(ƒãËç8´íÄ¢ÿ.
-Z
-java:S1854"?Remove this useless assignment to local variable "numberStore".(Æë¶úÿÿÿÿ
 R
 java:S1481"0Remove this unused "tComparator" local variable.(§çÅÞøÿÿÿÿ8ŽÔÎ¢ÿ.
+N	java:S106"9Replace this use of System.out or System.err by a logger.(³ªÞÏ
+9
+java:S2326"Y is not used in the method.(Ÿ¤åœ8íº€£ÿ.
+Z
+java:S1854"?Remove this useless assignment to local variable "numberStore".(Æë¶úÿÿÿÿ
+F
+java:S1481"0Remove this unused "stringStore" local variable.(—å†ñ
+U
+java:S1854"?Remove this useless assignment to local variable "stringStore".(—å†ñ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Èö®ÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÜÇçˆÿÿÿÿÿ
 a
 java:S1854"?Remove this useless assignment to local variable "tComparator".(§çÅÞøÿÿÿÿ8ŽÔÎ¢ÿ.
 K
