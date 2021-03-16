@@ -5,9 +5,7 @@ import java.util.Optional;
 
 public class ImprovedStack<T> implements Stack<T> {
 
-    LinkedList<T> linkedList = new LinkedList<>();
-
-    private int count = 0;
+    private final LinkedList<T> linkedList = new LinkedList<>();
 
     private final int maxCapacity;
 
@@ -17,16 +15,14 @@ public class ImprovedStack<T> implements Stack<T> {
 
     @Override
     public boolean push(T item) {
-        if (item == null || count == maxCapacity) return false;
+        if (item == null || linkedList.size() == maxCapacity) return false;
         linkedList.push(item);
-        count++;
         return true;
     }
 
     @Override
     public Optional<T> pop() {
         if (linkedList.isEmpty()) return Optional.empty();
-        count--;
         return Optional.ofNullable(linkedList.pop());
     }
 
@@ -42,7 +38,7 @@ public class ImprovedStack<T> implements Stack<T> {
 
     @Override
     public boolean isFull() {
-        return count == maxCapacity;
+        return linkedList.size() == maxCapacity;
     }
 
     @Override

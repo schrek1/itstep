@@ -1,0 +1,43 @@
+
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(µ½›ñ8œÎ´—‚/
+O
+java:S1481!"2Remove this unused "improvedStack" local variable.(”ð¿÷8ø‘³—‚/
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(µ½›ñ8œÎ´—‚/
+I
+java:S1612",Replace this lambda with a method reference.(µ½›ñ8ü—í•‚/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÃÐ†æ8®Õ¤–‚/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(µ½›ñ8ü—í•‚/
+U	java:S106."9Replace this use of System.out or System.err by a logger.(µ½›ñ8œÎ´—‚/
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(µ½›ñ8œÎ´—‚/
+I
+java:S16120",Replace this lambda with a method reference.(µ½›ñ8œÎ´—‚/
+I
+java:S1612",Replace this lambda with a method reference.(µ½›ñ8ü—í•‚/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(µ½›ñ8ü—í•‚/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(µ½›ñ8ü—í•‚/
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(ÃÐ†æ8œÎ´—‚/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(µ½›ñ8ü—í•‚/
+I
+java:S1612",Replace this lambda with a method reference.(µ½›ñ8ü—í•‚/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ö‹ø¿8œÎ´—‚/
+I
+java:S1612.",Replace this lambda with a method reference.(µ½›ñ8œÎ´—‚/
+^
+java:S1854!"ARemove this useless assignment to local variable "improvedStack".(”ð¿÷8ø‘³—‚/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(µ½›ñ8ã¯í•‚/
+I
+java:S1612/",Replace this lambda with a method reference.(µ½›ñ8œÎ´—‚/
+I
+java:S1612-",Replace this lambda with a method reference.(µ½›ñ8œÎ´—‚/
+I
+java:S1612",Replace this lambda with a method reference.(µ½›ñ8ã¯í•‚/
+I
+java:S1612,",Replace this lambda with a method reference.(µ½›ñ8œÎ´—‚/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¶ µŠÿÿÿÿÿ8æ˜µ—‚/
+[
+java:S1854"9Remove this useless assignment to local variable "value".(¿ªœèûÿÿÿÿ8²¨ñ•‚/
+L
+java:S1481"*Remove this unused "value" local variable.(¿ªœèûÿÿÿÿ8¿™¡–‚/
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(µ½›ñ8œÎ´—‚/
+I
+java:S1612",Replace this lambda with a method reference.(µ½›ñ8ü—í•‚/

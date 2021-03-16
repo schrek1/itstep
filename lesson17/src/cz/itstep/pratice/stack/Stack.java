@@ -1,7 +1,5 @@
 package cz.itstep.pratice.stack;
 
-import cz.itstep.pratice.common.Item;
-
 import java.util.Optional;
 
 public interface Stack<T> {
