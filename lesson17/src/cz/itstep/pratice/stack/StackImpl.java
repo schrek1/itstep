@@ -1,12 +1,12 @@
 package cz.itstep.pratice.stack;
 
-import cz.itstep.pratice.common.Item;
+import cz.itstep.pratice.common.Element;
 
 import java.util.Optional;
 
 public class StackImpl<T> implements Stack<T> {
 
-    private Item<T> head;
+    private Element<T> head;
     private int count = 0;
     private final int maxCapacity;
 
@@ -17,7 +17,7 @@ public class StackImpl<T> implements Stack<T> {
     @Override
     public boolean push(T item) {
         if (item == null || count == maxCapacity) return false;
-        head = new Item<>(item, head);
+        head = new Element<>(item, head);
         count++;
         return true;
     }
@@ -26,7 +26,7 @@ public class StackImpl<T> implements Stack<T> {
     public Optional<T> pop() {
         if (head == null) return Optional.empty();
 
-        Item<T> forPop = head;
+        Element<T> forPop = head;
         head = forPop.getNext();
 
         count--;
