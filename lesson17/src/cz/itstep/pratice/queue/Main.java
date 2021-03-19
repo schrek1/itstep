@@ -13,8 +13,6 @@ public class Main {
         Queue<Integer> improvedQueue = new ImprovedQueueImpl<>(3);
         testQueue(improvedQueue);
 
-        Object
-
     }
 
     private static void testQueue(Queue<Integer> queue) {

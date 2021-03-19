@@ -28,8 +28,6 @@ V
 \
 ,src/cz/itstep/default_interface/IntImpl.java,7\6\768d1c5612a3ce734dd1757f8e2eb21074b5daad
 V
-&src/cz/itstep/pratice/common/Item.java,5\2\52c404ca75ad5bebf84ea5369f8b3b37caa07a1b
-V
 &src/cz/itstep/pratice/stack/Stack.java,8\0\8038be98ce520cc5b9822dc11b2d9551e1d4e8fd
 Z
 *src/cz/itstep/pratice/stack/StackImpl.java,2\f\2f295f6b452434ab7f5b7fba6a0c5716c31c761a
@@ -37,3 +35,13 @@ U
 %src/cz/itstep/pratice/stack/Main.java,e\7\e7075de7495578520207af3e3e8df81e9ae02eaf
 ^
 .src/cz/itstep/pratice/stack/ImprovedStack.java,a\6\a65be4c1d9a26afa4ee19386327206c0b357d206
+Y
+)src/cz/itstep/pratice/common/Element.java,0\c\0c9e76d8d863d7fd494cb5573be0e25de7171adc
+Z
+*src/cz/itstep/pratice/queue/QueueImpl.java,d\c\dcce613ca84bbea66c6fef1dc22096f3334c4602
+V
+&src/cz/itstep/pratice/queue/Queue.java,6\b\6b486c3e84836c55caaf40395f31821fd7e1fe62
+b
+2src/cz/itstep/pratice/queue/ImprovedQueueImpl.java,6\d\6dcc5db66c9ae828bcb431ca510b9f277b33961f
+U
+%src/cz/itstep/pratice/queue/Main.java,4\f\4f3273415307eac7946ea6f978b5ee76da86a11c
