@@ -45,3 +45,9 @@ b
 2src/cz/itstep/pratice/queue/ImprovedQueueImpl.java,6\d\6dcc5db66c9ae828bcb431ca510b9f277b33961f
 U
 %src/cz/itstep/pratice/queue/Main.java,4\f\4f3273415307eac7946ea6f978b5ee76da86a11c
+^
+.src/cz/itstep/pratice/users/ListUserStore.java,1\2\1231f4c3c664ca0e4cb791a6109e277b7818f255
+U
+%src/cz/itstep/pratice/users/User.java,7\f\7f9289a81402ad84b0ee971577adce3d81216866
+]
+-src/cz/itstep/pratice/users/MapUserStore.java,d\3\d3dc8d57434af0a97a77607c6a159b11c9b21404
