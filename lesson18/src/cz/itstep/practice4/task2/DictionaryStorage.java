@@ -1,4 +1,4 @@
-package cz.itstep.practice3;
+package cz.itstep.practice4.task2;
 
 import java.util.AbstractMap;
 import java.util.Collection;

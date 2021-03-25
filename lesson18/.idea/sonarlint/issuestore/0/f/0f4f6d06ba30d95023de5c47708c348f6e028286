@@ -1,0 +1,15 @@
+
+v
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(¤Ì¼‡ùÿÿÿÿ8Ãö©†/
+Q	java:S125+"<This block of commented-out lines of code should be removed.(œëŠå
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(Ù®Š¶8ÕŞÿ€†/
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(Ô›•øıÿÿÿÿ
+e
+java:S1192"HDefine a constant instead of duplicating this literal "krkavec" 3 times.(Âùö¾8ÕŞÿ€†/
+j
+java:S1192"HDefine a constant instead of duplicating this literal "krychle" 3 times.(²¥Ãİÿÿÿÿÿ8Ú—ş€†/
+P	java:S125"<This block of commented-out lines of code should be removed.(Ù¥š
+U	java:S106."9Replace this use of System.out or System.err by a logger.(œÛãì8Èè®…†/
+V	java:S125'"<This block of commented-out lines of code should be removed.(–ëÎ×ÿÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(åİŠÎ
+X	java:S125"<This block of commented-out lines of code should be removed.(ÁÖ½8Æäû€†/

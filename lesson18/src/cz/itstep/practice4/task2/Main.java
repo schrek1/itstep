@@ -1,6 +1,4 @@
-package cz.itstep.practice3;
-
-import cz.itstep.practice3.DictionaryStorage;
+package cz.itstep.practice4.task2;
 
 public class Main {
     public static void main(String[] args) {
