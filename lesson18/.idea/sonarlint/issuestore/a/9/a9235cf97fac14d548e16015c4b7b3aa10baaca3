@@ -1,0 +1,11 @@
+
+X	java:S106"9Replace this use of System.out or System.err by a logger.(§­Ë»úÿÿÿÿ8¡Á×†/
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ğ®Äıÿÿÿÿ8¤¸½×†/
+O
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ8¸²Á×†/
+M
+java:S1481"-Remove this unused "instance" local variable.(›š³Ìıÿÿÿÿ8¬ŒÑÓ†/
+\
+java:S1854"<Remove this useless assignment to local variable "instance".(›š³Ìıÿÿÿÿ8¬ŒÑÓ†/
+X	java:S106"9Replace this use of System.out or System.err by a logger.(Œ–Ú”úÿÿÿÿ8Ÿ»ÈÖ†/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(œ•é‹8ÆË°×†/

@@ -1,12 +1,19 @@
 package cz.itstep.practice4.task3.storage;
 
+import java.io.Serializable;
 import java.util.Optional;
 
-class FileStorageImpl<ID, T> implements Storage<ID, T> {
+import static cz.itstep.practice4.task3.storage.SerializationUtils.serializeEntity;
+
+class FileStorageImpl<ID, T extends Serializable> implements Storage<ID, T> {
+
 
     @Override
     public boolean save(ID key, T entity) {
-        return false;
+        if (key == null || entity == null) return false;
+        final byte[] bytes = serializeEntity(entity);
+//        memory.put(key, bytes);
+        return true;
     }
 
     @Override

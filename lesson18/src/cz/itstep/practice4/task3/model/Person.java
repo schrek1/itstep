@@ -1,10 +1,11 @@
 package cz.itstep.practice4.task3.model;
 
+import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class Person {
+public class Person implements Serializable {
 
     private Long id;
 
