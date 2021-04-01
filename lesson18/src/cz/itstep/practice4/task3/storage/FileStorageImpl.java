@@ -20,4 +20,9 @@ class FileStorageImpl<ID, T extends Serializable> implements Storage<ID, T> {
     public Optional<T> load(ID key) {
         return Optional.empty();
     }
+
+    @Override
+    public boolean delete(ID key) {
+        return false;
+    }
 }
